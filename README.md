@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 <!--
 **The-Furion/The-Furion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
